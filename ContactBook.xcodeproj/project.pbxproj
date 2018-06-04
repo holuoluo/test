@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8B11D07720C15E110075E55B /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B11D07620C15E110075E55B /* CalendarViewController.swift */; };
 		AE94A7D420AD9123004BBD22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE94A7D320AD9123004BBD22 /* AppDelegate.swift */; };
 		AE94A7D620AD9123004BBD22 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE94A7D520AD9123004BBD22 /* ViewController.swift */; };
 		AE94A7D920AD9123004BBD22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE94A7D720AD9123004BBD22 /* Main.storyboard */; };
@@ -38,7 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8B11D07620C15E110075E55B /* CalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
 		AE94A7D020AD9123004BBD22 /* ContactBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE94A7D320AD9123004BBD22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE94A7D520AD9123004BBD22 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 			children = (
 				AE94A7D320AD9123004BBD22 /* AppDelegate.swift */,
 				AE94A7D520AD9123004BBD22 /* ViewController.swift */,
-				8B11D07620C15E110075E55B /* CalendarViewController.swift */,
 				AE94A7D720AD9123004BBD22 /* Main.storyboard */,
 				AEF7F14E20BC2BEE00FFE123 /* SignupViewController.swift */,
 				AE94A7DD20AD9123004BBD22 /* Assets.xcassets */,
@@ -271,7 +268,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B11D07720C15E110075E55B /* CalendarViewController.swift in Sources */,
 				AEF7F14D20B6E74B00FFE123 /* RegisterPageViewController.swift in Sources */,
 				AE94A7D620AD9123004BBD22 /* ViewController.swift in Sources */,
 				AEF7F14F20BC2BEF00FFE123 /* SignupViewController.swift in Sources */,
